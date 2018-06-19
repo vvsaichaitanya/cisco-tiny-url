@@ -16,3 +16,6 @@ Start UI
 1. cd url_shortner/angular-ui & npm install
 2. ng serve
 3. Navigate to http://localhost:4200/
+
+
+Note: Python code should create a DB once you run it but if you have issues connecting to DB create an sqlite db here named urls.db or feel free to copy urls.db from repository to url_shortner/backend
